@@ -697,10 +697,11 @@ var I_fJDKB = 'jj'
   , I_ahQ8h = 'def';
 function I_W2MDG() {
     var _0x1c4653 = _0x4780, _0x3301d2;
+    var v_gid = '682'
     0x0 <= I_wY1f6[_0x1c4653(0x3d2)]('igwmd') && (I_fJDKB = 'md'),
     'object' != typeof WebAssembly ? alert('本浏览器不支持最新web特性，请下载畅玩空间PC版或者使用chrome游戏😿') : (I_ahQ8h = I_dh0RE(_0x1c4653(0x586)),
     0x1 == I_wBT60 ? (I_pXSc1 = I_dh0RE(_0x1c4653(0x351)),
-    I_s5bhP = 0x0 <= I_wY1f6['indexOf']('igwmd') ? new Worker(_0x1c4653(0x2c9) + I_pXSc1) : 0x0 < I_wY1f6[_0x1c4653(0x3d2)](_0x1c4653(0x388)) ? new Worker('cyc/gstyphoonetc.js?sev=' + I_pXSc1) : new Worker('cyc/gstyphoon.js?sev=' + I_pXSc1 + '&gstate=' + I_ahQ8h + '&gid=' + gid)) : (I_s5bhP = 0x0 <= I_wY1f6['indexOf']('igwmd') ? new Worker('cyc/gstyphoonmd.js') : 0x0 < I_wY1f6[_0x1c4653(0x3d2)]('_etc') ? '1' == I_dh0RE('geeker') ? new Worker('cyc/gstyphoonetc.js?geeker=1') : new Worker(_0x1c4653(0x50c)) : '1' == I_dh0RE(_0x1c4653(0x329)) ? new Worker('cyc/gstyphoon.js?geeker=1') : new Worker(_0x1c4653(0x555) + I_ahQ8h + '&gid=' + gid),
+    I_s5bhP = 0x0 <= I_wY1f6['indexOf']('igwmd') ? new Worker(_0x1c4653(0x2c9) + I_pXSc1) : 0x0 < I_wY1f6[_0x1c4653(0x3d2)](_0x1c4653(0x388)) ? new Worker('cyc/gstyphoonetc.js?sev=' + I_pXSc1) : new Worker('cyc/gstyphoon.js?sev=' + I_pXSc1 + '&gstate=' + I_ahQ8h + '&gid=' + v_gid)) : (I_s5bhP = 0x0 <= I_wY1f6['indexOf']('igwmd') ? new Worker('cyc/gstyphoonmd.js') : 0x0 < I_wY1f6[_0x1c4653(0x3d2)]('_etc') ? '1' == I_dh0RE('geeker') ? new Worker('cyc/gstyphoonetc.js?geeker=1') : new Worker(_0x1c4653(0x50c)) : '1' == I_dh0RE(_0x1c4653(0x329)) ? new Worker('cyc/gstyphoon.js?geeker=1') : new Worker(_0x1c4653(0x555) + I_ahQ8h + '&gid=' + v_gid),
     'creator' == I_ahQ8h && I_dJi7X()),
     I_s5bhP['onmessage'] = I_MXXC5,
     _0x3301d2 = 0x0,
