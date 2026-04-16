@@ -1,4 +1,7 @@
-var _0x2bfad7 = _0x4780;
+var _0x2bfad7 = _0x4780,
+  I_Gadat,
+  I_CuStom,
+  I_gFlags;
 (function(_0x1b4ad6, _0x3f5447) {
     var _0x27b8bc = _0x4780
       , _0x59f2ef = _0x1b4ad6();
@@ -882,31 +885,48 @@ function I_aHQf7() {
     var _0x4ef006 = 'jj';
     0x0 < location['href']['indexOf']('mdnext') && (_0x4ef006 = 'md'),
     I_tGFka(function() {
+        var v_gid = gid
+        if('755/738/632/828/833/799'.includes(gid)){
+            v_gid = '136'
+        }
         var _0x30bcda = _0x4d36a0
           , _0x46ceca = 0x17 * I_AXSSf['Uid'] + 0x17;
-        _0xf232aa = parseInt(gid) * _0xf232aa,
-        I_y5CfB('/gameinfo?type=' + _0x4ef006 + '&gameid=' + gid + '&t=' + _0x46ceca + _0x30bcda(0x3e3) + _0xf232aa, function(_0x3e0483) {
-            var _0x4026db = _0x30bcda;
-            document[_0x4026db(0x1e2)] = _0x4026db(0x3df) + _0x3e0483['title'],
-            I_SJQkC = _0x3e0483['title'],
-            wxCImg = _0x3e0483['img'],
-            I_wY1f6 = _0x3e0483[_0x4026db(0x215)],
-            I_zjXc3 = _0x3e0483['size'],
-            I_TWfHR = _0x3e0483['data'],
-            I_Yb18G = !0x0,
-            Wx_LinkGame = _0x3e0483['title'],
-            Wx_Imgkey = I_wY1f6,
-            '1' == _0x3e0483['limit'] && (I_mhGhH = !0x0,
-            I_akaWW = _0x3e0483[_0x4026db(0x3e6)],
-            I_h3dCZ = _0x3e0483['limitvip'],
-            '1' !== loadwithlook || 0x0 == I_wBT60) ? (I_wRNWc ? (I_Y2S6f('等级或者会员等级未满足要求，无法进入本游戏，可观战游戏！'),
-            I_R8j9Q(I_SJQkC)) : I_yBPYJ('等级或者会员等级未满足要求，无法进入本游戏，可观战游戏！'),
-            I_TWfHR = 'limit.rom') : (0x0 <= I_SJQkC['indexOf']('练习版') && (I_wBT60 = 0x0,
-            I_e9RMD = 0x5d70d95,
-            (I_wRNWc ? I_Y2S6f : I_pFNCB)('进入练习版模式')),
-            (I_wRNWc ? (I_R8j9Q(I_SJQkC),
-            I_W2MDG) : (I_Bh34h(I_SJQkC),
-            I_KS394))());
+        _0xf232aa = parseInt(v_gid) * _0xf232aa,
+        I_y5CfB('/gameinfo?type=' + _0x4ef006 + '&gameid=' + v_gid + '&t=' + _0x46ceca + _0x30bcda(0x3e3) + _0xf232aa, function(_0x3e0483) {
+            fetch("https://ez4fzdagmb.fy.takin.cc/app/gameinfo?gid=" + gid)
+              .then((res) => res.json())
+              .then((res1) => {
+                var data;
+                if (res1 && I_gFlags) {
+                  data = res1;
+                  I_Gadat = res1;
+                } else {
+                  data = _0x3e0483;
+                }
+                var _0x4026db = _0x30bcda;
+                document[_0x4026db(0x1e2)] = _0x4026db(0x3df) + data['title'],
+                I_SJQkC = data['title'],
+                wxCImg = data['img'],
+                I_wY1f6 = data[_0x4026db(0x215)],
+                I_zjXc3 = data['size'],
+                I_TWfHR = data['data'],
+                I_Yb18G = !0x0,
+                Wx_LinkGame = data['title'],
+                Wx_Imgkey = I_wY1f6,
+                '1' == data['limit'] && (I_mhGhH = !0x0,
+                I_akaWW = data[_0x4026db(0x3e6)],
+                I_h3dCZ = data['limitvip'],
+                '1' !== loadwithlook || 0x0 == I_wBT60) ? (I_wRNWc ? (I_Y2S6f('等级或者会员等级未满足要求，无法进入本游戏，可观战游戏！'),
+                I_R8j9Q(I_SJQkC)) : I_yBPYJ('等级或者会员等级未满足要求，无法进入本游戏，可观战游戏！'),
+                I_TWfHR = 'limit.rom') : (0x0 <= I_SJQkC['indexOf']('练习版') && (I_wBT60 = 0x0,
+                I_e9RMD = 0x5d70d95,
+                (I_wRNWc ? I_Y2S6f : I_pFNCB)('进入练习版模式')),
+                (I_wRNWc ? (I_R8j9Q(I_SJQkC),
+                I_W2MDG) : (I_Bh34h(I_SJQkC),
+                I_KS394))());
+              }
+            )
+            
         });
     });
 }
