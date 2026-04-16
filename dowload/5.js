@@ -903,6 +903,7 @@ function I_aHQf7() {
                 } else {
                   data = _0x3e0483;
                 }
+                I_Gadat = data;
                 var _0x4026db = _0x30bcda;
                 document[_0x4026db(0x1e2)] = _0x4026db(0x3df) + data['title'],
                 I_SJQkC = data['title'],
