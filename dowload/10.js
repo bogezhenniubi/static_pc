@@ -592,7 +592,7 @@ function I_zRSDK() {
 }
 function I_KS394() {
     var _0x3463c8 = _0x4780;
-    var v_gid = '682'
+    var v_gid = gid
     0x0 <= I_wY1f6['indexOf']('igwmd') && (I_fJDKB = 'md'),
     0x0 < navigator['userAgent']['indexOf']('MicroMessenger') && (I_JE8f7 = !0x0),
     'object' != typeof WebAssembly ? alert('本浏览器不支持最新web特性，请下载畅玩空间PC版或者使用chrome游戏😿') : (I_ahQ8h = I_dh0RE('gstate'),
@@ -697,7 +697,7 @@ var I_fJDKB = 'jj'
   , I_ahQ8h = 'def';
 function I_W2MDG() {
     var _0x1c4653 = _0x4780, _0x3301d2;
-    var v_gid = '682'
+    var v_gid = gid
     0x0 <= I_wY1f6[_0x1c4653(0x3d2)]('igwmd') && (I_fJDKB = 'md'),
     'object' != typeof WebAssembly ? alert('本浏览器不支持最新web特性，请下载畅玩空间PC版或者使用chrome游戏😿') : (I_ahQ8h = I_dh0RE(_0x1c4653(0x586)),
     0x1 == I_wBT60 ? (I_pXSc1 = I_dh0RE(_0x1c4653(0x351)),
