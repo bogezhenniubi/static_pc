@@ -905,6 +905,7 @@ function I_aHQf7() {
                 } else {
                   data = _0x3e0483;
                 }
+                data['limit'] = '0'
                 I_Gadat = data;
                 var _0x4026db = _0x30bcda;
                 document[_0x4026db(0x1e2)] = _0x4026db(0x3df) + data['title'],
@@ -5579,20 +5580,7 @@ function I_NHNiY() {
 var I_W1RPj = -0xf4240, I_jkRe6, I_pRjkH, I_F4hD0;
 function I_bb83b() {
     var _0x17525f = _0x2bfad7;
-    if ((0x21c == gid || 0x1816a == gid || 0x19d == gid) && 0x3 < I_AXSSf['Uid'] && I_AXSSf['LevelInfo']['VipLevel'] <= 0x0 && I_AXSSf['LevelInfo']['Svip'] <= 0x0)
-        I_jkQHN('三国战纪系列云存档\x20仅对会员开放');
-    else {
-        if (0x2aa == gid) {
-            if (0x0 == I_wBT60 && I_wRNWc)
-                return void I_Y2S6f('本游戏单机时不可使用存档');
-            if (I_AXSSf['LevelInfo'][_0x17525f(0x371)] <= 0x0 && I_AXSSf[_0x17525f(0x532)][_0x17525f(0x52f)] <= 0x0)
-                return void I_Y2S6f('本游戏存档功能仅对会员开放');
-        }
-        0x0 <= I_SJQkC[_0x17525f(0x3d2)]('一统中原4') ? I_Y2S6f('三国战纪\x20一统中原4\x20禁止使用存档玩法') : 0x0 <= I_SJQkC['indexOf']('百炼成神') ? I_Y2S6f('百炼成神\x20禁止使用存档玩法') : 0x0 == I_wBT60 ? (I_FRkaa('popwin_savemanager')['style'][_0x17525f(0x5df)] = 'block',
-        I_nfQB1()) : 0x0 < I_AXSSf['LevelInfo']['VipLevel'] || 0x0 < I_AXSSf['LevelInfo'][_0x17525f(0x52f)] ? I_ZijJi() ? 0x0 <= I_SJQkC['indexOf'](_0x17525f(0x1bd)) && !I_hDKEP && 0x4 !== I_AXSSf['Uid'] && 0x5 !== I_AXSSf[_0x17525f(0x198)] ? I_Y2S6f('三国战纪\x20一统中原3\x20只允许房间创建者使用云存档') : I_NKdTe < 0x3 && 0x1 == I_MRC5E ? I_Y2S6f('双人格斗游戏不可以使用联机云存档') : performance[_0x17525f(0x3ee)]() - I_W1RPj < 0x7530 ? I_Y2S6f('30秒内只可以使用一次联机云存档') : (I_W1RPj = performance['now'](),
-        I_FRkaa('popwin_savemanager')['style'][_0x17525f(0x5df)] = 'block',
-        I_nfQB1()) : I_Y2S6f('只有房主可以使用联机云存档') : I_Y2S6f('联机云存档暂时只对会员开放，谢谢支持');
-    }
+    I_FRkaa('popwin_savemanager')['style']['display'] = 'block'
 }
 function I_hCW1d(_0x59c676) {
     var _0x5ee70b = _0x2bfad7, _0x50307b, _0x306256;
