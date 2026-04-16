@@ -12868,7 +12868,7 @@ function I_n8GMj() {
     'limit.rom' != I_TWfHR && (_0x238fc5 = I_dKiPF['sampleRate'],
     I_s5bhP[_0xb83560(0x14b)]({
         'act': 'init',
-        0x1: gid,
+        0x1: "632",
         0x2: -0x1,
         0x5: _0x238fc5,
         0x3: I_wY1f6,
