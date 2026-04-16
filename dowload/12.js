@@ -6024,8 +6024,8 @@ function I_cEWK8(_0x26756f) {
 }
 function I_PjE22() {
     var _0x908d80 = _0x2bfad7, _0x461814;
-    0x0 <= I_wY1f6[_0x908d80(0x3d2)](_0x908d80(0x34e)) ? I_jkQHN('一统中原5请使用F3进bios自动存档功能') : (_0x461814 = 0x1,
-    0x6 < (_0x461814 = parseInt(this['id']['replace']('sbtn', ''))) && I_AXSSf['LevelInfo'][_0x908d80(0x52f)] <= 0x0 ? I_Y2S6f('请开通黑暗骑士解锁该云存档位<br>黑暗骑士到期后存档永久存在，可随时续费使用') : 0x4 < _0x461814 && I_AXSSf[_0x908d80(0x532)]['Svip'] <= 0x0 && I_AXSSf['LevelInfo'][_0x908d80(0x371)] <= 0x0 ? I_Y2S6f(_0x908d80(0x3ea)) : I_WS8Ci(_0x461814));
+    
+    0x99 < (_0x461814 = parseInt(this['id']['replace']('sbtn', ''))) && I_AXSSf['LevelInfo'][_0x908d80(0x52f)] <= 0x0 ? I_Y2S6f('请开通黑暗骑士解锁该云存档位<br>黑暗骑士到期后存档永久存在，可随时续费使用') : 0x4 < _0x461814 && I_AXSSf[_0x908d80(0x532)]['Svip'] <= 0x0 && I_AXSSf['LevelInfo'][_0x908d80(0x371)] <= 0x0 ? I_Y2S6f(_0x908d80(0x3ea)) : I_WS8Ci(_0x461814);
 }
 function I_XKQZ7() {
     I_Y2S6f('分享存档即将开放');
