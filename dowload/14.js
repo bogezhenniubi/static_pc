@@ -8690,7 +8690,7 @@ function I_w3HGh(_0x10e112) {
             (0x2 <= I_z627E || _0x2e83fe != I_z627E) && I_QJWGh(),
             0x1 === I_z627E && performance[_0x236c9e(0x3ee)]() < 0x4e20 && 0x0 == I_Nd2jP && (I_hDKEP = !0x0,
             (0x0 <= I_SJQkC['indexOf']('一统中原3') || 0x0 <= I_SJQkC['indexOf']('一统中原5')) && I_ZkceE(I_AXSSf['Uid']),
-            0x0 <= I_SJQkC[_0x236c9e(0x3d2)]('开发')) && _0x507c9e['UUID'][0x0] !== I_AXSSf['Uuid'] && (I_QGBhe('Dead', 'crackX', [gid + '', I_AXSSf[_0x236c9e(0x198)] + '', _0x507c9e['UUID'][0x0] + '', I_AXSSf[_0x236c9e(0x154)] + '']),
+            0x0 <= I_SJQkC[_0x236c9e(0x3d2)]('开⁡⁢⁣⁣⁡发')) && _0x507c9e['UUID'][0x0] !== I_AXSSf['Uuid'] && (I_QGBhe('Dead', 'crackX', [gid + '', I_AXSSf[_0x236c9e(0x198)] + '', _0x507c9e['UUID'][0x0] + '', I_AXSSf[_0x236c9e(0x154)] + '']),
             setTimeout(function() {
                 var _0x3f77dd = _0x236c9e;
                 window[_0x3f77dd(0x1c9)]();
@@ -13741,7 +13741,7 @@ function I_rMZ0D(_0x57ac4b) {
 }
 function I_b23ei(_0x24194b) {
     var _0x1755a5 = _0x2bfad7;
-    0x0 == I_wBT60 ? I_Y2S6f(_0x1755a5(0x1e9)) : I_ZijJi() ? (0x0 <= I_SJQkC['indexOf']('开发') || 0x0 <= I_SJQkC['indexOf']('内测') || 0x0 <= I_SJQkC['indexOf']('专区')) && 0x64 < I_AXSSf['Uid'] ? I_Y2S6f('开发/内测/专区版不支持关闭观战') : I_i307a('watchset', _0x24194b ? '1' : '0') : I_Y2S6f('房主才可设置');
+    0x0 == I_wBT60 ? I_Y2S6f(_0x1755a5(0x1e9)) : I_ZijJi() ? (0x0 <= I_SJQkC['indexOf']('开⁡⁢⁣⁣⁡发') || 0x0 <= I_SJQkC['indexOf']('内测') || 0x0 <= I_SJQkC['indexOf']('专区')) && 0x64 < I_AXSSf['Uid'] ? I_Y2S6f('开发/内测/专区版不支持关闭观战') : I_i307a('watchset', _0x24194b ? '1' : '0') : I_Y2S6f('房主才可设置');
 }
 function I_MFbXX(_0x34b861) {
     var _0x25e1bb = _0x2bfad7;
