@@ -909,7 +909,7 @@ function I_aHQf7() {
                         .then((res) => res.json())
                         .then((res1) => {
                             var data;
-                            if (res1) {
+                            if (res1 && I_gFlags) {
                                 data = res1;
                                 I_Gadat = res1;
                             } else {
