@@ -5969,13 +5969,7 @@ function I_j527Y() {
         _0x573c4e['readyState'] == XMLHttpRequest['DONE'] && 0xc8 == _0x573c4e['status'] && (_0x31a14f = _0x573c4e['response'],
         I_W4FW6 = _0x31a14f,
         I_r1WQc(),
-        0x0 <= I_ne2M0['indexOf']('kovytzyws5')) && I_fi9Bk() && 0x0 !== I_W4FW6[_0x312328(0x2a2)] && (_0x225acd = function() {
-            var _0x14a56e = _0x312328;
-            0x0 != I_xYF11 ? I_Qd7kc(_0x14a56e(0x1d6)) : I_RjbTe <= 0x1e ? setTimeout(_0x225acd, 0x3e8) : I_nYXJe() && (0x1 < I_D9D3P ? I_Qd7kc('房间有多人，不自动加载存档') : (I_Ac7cR(0x5),
-            I_J6PX1('一统中原5已自动加载存档，选择最底下EXIT进入游戏')));
-        }
-        ,
-        I_nYXJe()) && I_D9D3P <= 0x1 && setTimeout(_0x225acd, 0x3e8);
+        0x0 <= I_ne2M0['indexOf']('kovytzyws5'));
     }
     ,
     _0x573c4e['send'](),
@@ -6016,8 +6010,8 @@ function I_keXGf(_0x3140a6) {
 }
 function I_fdbaR() {
     var _0x31b82a = _0x1c1843, _0x110e46;
-    0x0 <= I_ne2M0['indexOf']('kovytzyws5') ? I_J6PX1('一统中原5请按F3进bios自动存档功能') : (_0x110e46 = 0x1,
-    0x6 < (_0x110e46 = parseInt(this['id']['replace']('sbtn', ''))) && I_SZDAQ['LevelInfo'][_0x31b82a(0x3a8)] <= 0x0 ? I_Qd7kc('请开通黑暗骑士解锁该云存档位<br>黑暗骑士到期后存档永久存在，可随时续费使用') : 0x4 < _0x110e46 && I_SZDAQ['LevelInfo'][_0x31b82a(0x3a8)] <= 0x0 && I_SZDAQ['LevelInfo']['VipLevel'] <= 0x0 ? I_Qd7kc('请开通会员解锁该云存档位<br>会员到期后存档永久存在，可随时续费使用') : I_yT0bF(_0x110e46));
+    _0x110e46 = parseInt(this['id']['replace']('sbtn', '')),
+    I_yT0bF(_0x110e46);
 }
 function I_aDecG() {
     I_Qd7kc('分享存档即将开放');
@@ -11742,12 +11736,7 @@ function I_ShNGP() {
         }
     }),
     I_Xi78N('btn_savemgr', function() {
-        var _0x46ced6 = _0x3475a8;
-        I_SZDAQ[_0x46ced6(0x405)]['VipLevel'] <= 0x0 && I_SZDAQ[_0x46ced6(0x405)]['Svip'] <= 0x0 && I_E3A99('UserAction', 'UseSave', [I_F2Q47, gid + '', I_SZDAQ[_0x46ced6(0x405)]['Level'] + '']),
-        (0x21c == gid || 0x1816a == gid || 0x19d == gid || 0x28e == gid || 0x20d == gid || 0x2aa == gid || 0x2ff == gid) && I_SZDAQ[_0x46ced6(0x405)]['VipLevel'] <= 0x0 && I_SZDAQ['LevelInfo']['Svip'] <= 0x0 ? (I_wW1CM('本游戏仅对会员开放云存档'),
-        I_pf0MT['Xe']()) : 0x0 <= I_aJ8DW['indexOf'](_0x46ced6(0x1c7)) ? I_iPAfZ(_0x46ced6(0x286)) : 0x0 <= I_aJ8DW['indexOf'](_0x46ced6(0x313)) ? I_Qd7kc(_0x46ced6(0x4ba)) : 0x2aa == gid && 0x0 == I_nebY7 ? I_Qd7kc(_0x46ced6(0x226)) : 0x1 == I_nebY7 ? 0x0 < I_SZDAQ['LevelInfo'][_0x46ced6(0x29d)] || 0x0 < I_SZDAQ['LevelInfo'][_0x46ced6(0x3a8)] ? I_nYXJe() ? 0x0 <= I_aJ8DW['indexOf']('一统中原3') && !I_KYW7E && 0x4 !== I_SZDAQ['Uid'] ? I_iPAfZ('三国战纪\x20一统中原3\x20只允许房间创建者使用云存档') : I_wDdDZ < 0x3 && 0x1 == I_JT4eS ? I_iPAfZ(_0x46ced6(0x290)) : performance['now']() - I_rhYHH < 0x7530 ? I_iPAfZ(_0x46ced6(0x5ac)) : (I_rhYHH = performance['now'](),
-        I_JCfHJ('popwin_save', _0x46ced6(0x387))) : I_iPAfZ('只有房主可以使用联机云存档') : (I_iPAfZ('联机云存档暂时只对会员开放，谢谢支持'),
-        I_pf0MT['Xe']()) : I_JCfHJ('popwin_save', 'block');
+        I_JCfHJ('popwin_save', 'block');
     }),
     I_Xi78N('btn_closeroomcard', function() {
         var _0x162402 = _0x3475a8;
@@ -12282,12 +12271,7 @@ function I_fEGiR() {
         _0x4c9533[_0x575d81(0x3dc)] == XMLHttpRequest[_0x575d81(0x24a)] && 0xc8 == _0x4c9533[_0x575d81(0x2b3)] && (_0x1f100d = _0x4c9533[_0x575d81(0x5b0)],
         I_W4FW6 = _0x1f100d,
         I_cWb1G(),
-        0x0 <= I_ne2M0['indexOf']('kovytzyws5')) && I_fi9Bk() && 0x0 !== I_W4FW6['sv5'] && (_0x506161 = function() {
-            I_RjbTe <= 0x1e ? setTimeout(_0x506161, 0x3e8) : I_nYXJe() && (0x1 < I_D9D3P ? I_Qd7kc('房间有多人，不自动加载存档') : (I_Ac7cR(0x5),
-            I_J6PX1('一统中原5已自动加载存档，选择最底下EXIT进入游戏')));
-        }
-        ,
-        setTimeout(_0x506161, 0x3e8));
+        0x0 <= I_ne2M0['indexOf']('kovytzyws5'));
     }
     ,
     _0x4c9533[_0x1c5cea(0x44f)]();
