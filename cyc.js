@@ -631,17 +631,7 @@ function I_phJE0() {
     _0x3cdc25[_0x17453a(0x25b)] = '暂停'));
 }
 function I_BFGC1() {
-    0x1 != I_nebY7 || I_nYXJe() ? (I_fi9Bk() && 0x0 <= I_ne2M0['indexOf']('kovytzyws5') && (performance['now']() < 0x493e0 ? I_iPAfZ('开始小于5分钟，不自动存档') : setTimeout(function() {
-        var _0x2b643d = _0x26af;
-        null != I_MjEYh && 0xff40 == I_MjEYh[0x2469] && (I_KYW7E || 0x0 == I_nebY7 ? (I_J6PX1('已进入bios，三国战纪\x20一统中原5\x20会员F3自动存档到5号位'),
-        I_yT0bF(0x5),
-        new Date(I_W4FW6[_0x2b643d(0x3c3)]),
-        new Date(I_W4FW6[_0x2b643d(0x23f)]),
-        new Date()['getDay']() % 0x2 == 0x0 || null == I_W4FW6['st1'] ? (I_J6PX1('同时存档1号位备用，可手动加载使用'),
-        I_yT0bF(0x1)) : (I_J6PX1(_0x2b643d(0x1c5)),
-        I_yT0bF(0x2))) : I_Qd7kc('非房间创建者，无法自动存档'));
-    }, 0x3e8)),
-    I_H3DNk['h'](),
+    0x1 != I_nebY7 || I_nYXJe() ? (I_H3DNk['h'](),
     setTimeout(function() {
         I_H3DNk['v']();
     }, 0x3e8)) : I_iPAfZ('不是房主，不允许调出BIOS');
@@ -905,10 +895,7 @@ function I_SS823() {
     (I_DY3cA ? I_aC7dj : I_BaJKS)(),
     setTimeout(function() {
         I_heTPJ();
-    }, 0x4b0),
-    0x0 == I_nebY7 && 0x5d70d95 == I_eRFFS && setTimeout(function() {
-        I_Ac7cR(0x5b);
-    }, 0xbb8);
+    }, 0x4b0);
 }
 var I_shkCZ = !0x1;
 function I_n8QCK() {
@@ -7664,17 +7651,7 @@ function I_XRf61() {
                         }
                         switch (_0x436d33[_0x5afb79(0x310)]) {
                         case 'F3':
-                            0x1 != I_nebY7 || I_nYXJe() ? (I_fi9Bk() && 0x0 <= I_ne2M0['indexOf'](_0x5afb79(0x26f)) && (performance['now']() < 0x493e0 ? I_J6PX1(_0x5afb79(0x351)) : setTimeout(function() {
-                                var _0x13eb40 = _0x5afb79;
-                                null != I_MjEYh && 0xff40 == I_MjEYh[0x2469] && (I_KYW7E || 0x0 === I_nebY7 ? (I_J6PX1(_0x13eb40(0x143)),
-                                I_yT0bF(0x5),
-                                new Date(I_W4FW6['st1']),
-                                new Date(I_W4FW6['st2']),
-                                new Date()['getDay']() % 0x2 == 0x0 || null == I_W4FW6['st1'] ? (I_J6PX1('同时存档1号位备用，可手动加载使用'),
-                                I_yT0bF(0x1)) : (I_J6PX1(_0x13eb40(0x1c5)),
-                                I_yT0bF(0x2))) : I_Qd7kc('非房间创建者，无法自动存档'));
-                            }, 0x3e8)),
-                            I_H3DNk['h']()) : I_Qd7kc('不是房主，不允许调出BIOS');
+                            0x1 != I_nebY7 || I_nYXJe() ? I_H3DNk['h']() : I_Qd7kc('不是房主，不允许调出BIOS');
                             break;
                         case I_P9TcJ['PCSet']['KeyUp']:
                             I_nTehd |= 0x1,
@@ -12150,7 +12127,7 @@ function I_jjKiY() {
     var _0x537382 = _0x1c1843, _0x23dd09, _0x4db533;
     0x6 < I_Jdf0a && I_SZDAQ['LevelInfo']['Svip'] <= 0x0 ? (I_iPAfZ('<p\x20style=\x27color:\x20#b15dff\x27>请开通黑暗骑士解锁该云存档位<br>黑暗骑士到期后存档永久存在，可随时续费使用</p>'),
     I_pf0MT['Xe'](_0x537382(0x549))) : 0x4 < I_Jdf0a && I_SZDAQ['LevelInfo']['Svip'] <= 0x0 && I_SZDAQ['LevelInfo'][_0x537382(0x29d)] <= 0x0 ? (I_iPAfZ('<p\x20style=\x27color:\x20#b15dff\x27>请开通会员解锁该云存档位<br>会员到期后存档永久存在，可随时续费使用</p>'),
-    I_pf0MT['Xe']()) : 0x0 <= I_ne2M0['indexOf']('kovytzyws5') ? I_iPAfZ(_0x537382(0x322)) : null != I_W4FW6['st' + I_Jdf0a] ? (_0x23dd09 = I_QWJDC('popwin_savecheck'),
+    I_pf0MT['Xe']()) : null != I_W4FW6['st' + I_Jdf0a] ? (_0x23dd09 = I_QWJDC('popwin_savecheck'),
     _0x4db533 = I_QWJDC('savecheck_text'),
     _0x23dd09['style']['display'] = _0x537382(0x387),
     _0x4db533[_0x537382(0x25b)] = '当前存档位【' + I_Jdf0a + '】存在老存档，确定要覆盖吗？',
